@@ -4,9 +4,7 @@
 # Graphs and charts are prepared for different analysis                                    #
 # Please open this file in RStudio for better code readability                             #
 #                                                                                          #
-# Group Facilitator: Rakesh Pattanaik.                                                     #   
-# Group Facilitator Roll No. - DDA1720036                                                  #
-# Group Members: Rakesh Pattanaik, Raju Kumar, Vikrant Singh and Chetak Chauhan            #
+# Author: Rakesh Pattanaik.                                                                #   
 ############################################################################################
 
 # Business Understanding:----
